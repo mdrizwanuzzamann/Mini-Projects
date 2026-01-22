@@ -1,1 +1,1 @@
-# Reactjs-Mini-Projects
+# Mini-Projects
